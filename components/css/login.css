@@ -1,0 +1,25 @@
+.container h2{
+    color: #000000;
+}
+
+.container p{
+    color: #000000;
+}
+
+.form-label{
+    color: #000000;
+}
+
+.form-check-label{
+    color: #000000;
+}
+
+.container .form-check{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.zm-footer p{
+    color: #000000;
+}
